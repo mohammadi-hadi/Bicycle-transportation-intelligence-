@@ -22,7 +22,7 @@ This project was built for the day-to-day operations of a city bike-share servic
 ## Repository structure
 
 ```
-Bicycle-transportation-intelligence-/
+bicycle-transportation-intelligence/
 ├── Bicycle transportation intelligentization project.py   # Streamlit app (all logic)
 ├── CONTRIBUTING.md                                        # Contribution guidelines
 ├── LICENSE                                                # MIT License
